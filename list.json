@@ -1,4 +1,5 @@
 {
-  "official": ["ragecoop", "test"],
-  "unofficial": []
+  "official": ["ragecoop"],
+  "unofficial": ["gtacoop"],
+  "other": ["scripthookv", "scripthookvdotnet"]
 }
